@@ -26,9 +26,9 @@ to realize these blatantly obvious signs)
   I hate OneNote and OneDrive with a passion.  However, I have
   nothing against OneNote / OneDrive / Windows / Microsoft *users*.
   If Microsoft works for you, then great!  It didn't for me, and
-  I am abstrainng from most Microsoft products and services
+  I am abstaining from most Microsoft products and services
   (including GitHub).  But if you must have *me* become a sycophant
-  of big corporations, I assure you that you will be disapoointed.
+  of big corporations, I assure you that you will be disappointed.
 * I enjoy open file formats and open protocols.  I despite Walled
   Gardens, undocumented database schemas, obfuscated JavaScript,
   and more.  I despite software used to spy on, control, collect
@@ -63,7 +63,7 @@ to realize these blatantly obvious signs)
 * I am (undiagnosed, but very possibly) autistic and will interpret
   your words very literally, and may criticize you very directly.
   That isn't to say that I don't care about your feelings; I just
-  believe that corporate getalong "friendliness" is the *lack* of
+  believe that corporate get-along "friendliness" is the *lack* of
   capacity to care about whatever the heck you are talking about.
 * I may "steal" work, but I make sure to give credit to people
   whose work I benefit from whenever I can.  A friend, an artist
@@ -113,10 +113,10 @@ to realize these blatantly obvious signs)
   yourself Chinese (it is your choice and I do not care).  But it is *my*
   choice to call *myself* Chinese, and if my ethnicity and/or nationality
   *alone* concerns you, it is in our best interest that you spell out your
-  partialty towards my people and my national origin as soon as possible,
+  partiality towards my people and my national origin as soon as possible,
   and that we part our ways from here.
 
-if any of these points upset you do not consider me for collab!!!
+if *any* of these points upset you do not consider me for collab!!!
 do not waste my precious time (or yours)!
 
 ## about Cain
