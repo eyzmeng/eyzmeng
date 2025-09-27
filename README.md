@@ -33,9 +33,9 @@ to realize these blatantly obvious signs)
   Gardens, undocumented database schemas, obfuscated JavaScript,
   and more.  I despite software used to spy on, control, collect
   personally identifiable information of, and/or manipulate people.
-  While I deeply respect your choice if you choose to keep your
-  technology private and proprietary, but if you find the thought of
-  this polar opposite kind of person in your room repulsive,
+  While I *deeply respect* your choice if you choose to keep *your*
+  technology private and proprietary, if you find the mere thought
+  of this polar opposite kind of person in your room repulsive,
   do not invite me to such room in the first place.
 * to add to the previous point: I believe everyone owns their data,
   their information.  User content is confidential by default and
