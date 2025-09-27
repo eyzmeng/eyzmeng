@@ -8,15 +8,44 @@ here are some reasons you may *not* want me in your project
 (since apparently it takes some people an in-person meeting
 to realize these blatantly obvious signs)
 
-* I support Free and Open Software and despise mega corporations
+* I support Free and Open Software and despise mega corporations.
+  I hate OneNote and OneDrive with a passion.  However, I have
+  nothing against OneNote / OneDrive / Windows / Microsoft *users*.
+  If Microsoft works for you, then great!  It didn't for me, and
+  I am abstrainng from most Microsoft products and services
+  (including GitHub).  But if you must have *me* become a sycophant
+  of big corporations, I assure you that you will be disapoointed.
 * I enjoy open file formats and open protocols.  I despite Walled
   Gardens, undocumented database schemas, obfuscated JavaScript,
   and more.  I despite software used to spy on, control, collect
   personally identifiable information of, and/or manipulate people.
-* I advocate for rights to repair, rights to data ownership,
-  rights to not being sold to advertisers, and rights to be
-  forgotten (GDPR).  If your app practices data farming or shady
-  business practices, it is in our best interest that we part.
+  While I deeply respect your choice if you choose to keep your
+  technology private and proprietary, but if you find the thought of
+  this polar opposite kind of person in your room repulsive,
+  do not invite me to such room in the first place.
+* to add to the previous point: I believe everyone owns their data,
+  their information.  User content is confidential by default and
+  must be taken seriously or destroyed entirely, not anywhere between.
+  Users reserve the right to obtain an exact copy of all data the
+  service collects of them, at any point of time, for absolutely
+  any reason.  Users deserve to know how their service works,
+  where it processes and stores their data, and how they can ensure
+  that their data is erased.  (I must expressly state that this does
+  *not* mean to erase user's *access* to the data --- the deletion
+  as reflected on the user interface *must* correspond to a deletion
+  in the server database within a reasonable timeframe.)  And finally,
+  users should be the one to grant consent to their data being
+  distributed to any third-party, and that all such distribution
+  should be written in clear, terse, non-legalese speak.
+* **I do not support the distribution of effortful/confidential text data**
+  (such as blog articles, user-created content, personal information)
+  **to large language models such as ChatGPT, Anthropic Claude, Google
+  Gemini, Deepseek; or image/audio data of similar nature to
+  image/audio-generation diffusion models** (such as artwork, animations,
+  and photography/videography of real faces/voices).  If you do not
+  make an effort to cease any of the above acts (or at the very least
+  *clarify* to your users that your service does this), I do not
+  want to work with you (nor do I think you me to work for you).
 * I am (undiagnosed, but very possibly) autistic and will interpret
   your words very literally, and may criticize you very directly.
   That isn't to say that I don't care about your feelings; I just
@@ -36,7 +65,11 @@ to realize these blatantly obvious signs)
   If you can't be bothered to thank people for helping while wanting it
   to sound like you do all the work, you might as well deserve to do it
   alone to live up to the prophecy.)
-* I do not enjoy AI buzzwords.  I do not vibe code.
+* I do not enjoy AI buzzwords.  I do not vibe code.  I care about
+  keeping things low-tech and accessible (my commitment is a different
+  topic as I am aware of how difficult it is to maintain low-energy or
+  compatibility without stifling progress; but suffice it to say, I do
+  not *intentionally* make bloatware or endorse "planned obsolescence".)
   (I may vibe code for *your* codebase!  But please keep that slop
   as far away from my personal projects as possible.)
 * [I am a f&#42;&#42;king webmaster](https://justinjackson.ca/webmaster/).
@@ -48,12 +81,26 @@ to realize these blatantly obvious signs)
   Making is my passion; it's so I can bring change to the world.
   It's so that someone can find peace --- that I can find peace --- in
   a chaotic world and the unrelenting flow of time, overwhelmed by senses
-  and overridden by grief, crushed by the apathetic and hurt by the
+  and overridden by confusion, crushed by the apathetic and hurt by the
   careless... that doesn't come from the rejection of human nature
-  and imperfection; or a detachment from the range of emotions, but
-  rather embrace it, cherish it, and spend every second not regretting
-  to be human in it.  
+  and imperfection; or a detachment from the range and capacity of
+  human emotions; but rather embrace it, cherish it, and spend every
+  second not regretting to be human in it.  
   (I may make exceptions for you; I can't say the same about you for me!)
+* also, i am a chinese from mainland China --- not Chinese--American,
+  not hong kongnese, not macanese, or taiwanese.  That doesn't mean i am
+  into politics (well, at least not for its own sake) or take a stance on
+  controversial international things in general (or that i care to engage
+  in such hurtful things), or that i am partial for other mainland Chinese
+  people, or that i agree with everything the CCP does or has done, or that
+  i am (or am not) pro-Taiwan, pro-America, or pro anything.  That doesn't
+  even suggest the slightest that i would treat you differently because
+  you, if you are ethnic Chinese, are not from mainland China or call
+  yourself Chinese (it is your choice and I do not care).  But it is *my*
+  choice to call *myself* Chinese, and if my ethnicity and/or nationality
+  *alone* concerns you, it is in our best interest that you spell out your
+  partialty towards my people and my national origin as soon as possible,
+  and that we part our ways from here.
 
 if any of these points upset you do not consider me for collab!!!
 do not waste my precious time (or yours)!
