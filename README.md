@@ -121,6 +121,6 @@ do not waste my precious time (or yours)!
 
 ## about Cain
 
-if you are like tboi Please email me about it!!!
+if you like tboi Please email me about it!!!
 
 i drew my cain in [Whiteboard Fox](https://r9.whiteboardfox.com/) :D
