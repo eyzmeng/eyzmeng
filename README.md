@@ -109,7 +109,7 @@ to realize these blatantly obvious signs)
   people, or that i agree with everything the CCP does or has done, or that
   i am (or am not) pro-Taiwan, pro-America, or pro anything.  That doesn't
   even suggest the slightest that i would treat you differently because
-  you, if you are ethnic Chinese, are not from mainland China or call
+  you (assuming you are ethnic Chinese) do not call
   yourself Chinese (it is your choice and I do not care).  But it is *my*
   choice to call *myself* Chinese, and if my ethnicity and/or nationality
   *alone* concerns you, it is in our best interest that you spell out your
