@@ -83,7 +83,7 @@ to realize these blatantly obvious signs)
   keeping things low-tech and accessible (my commitment is a different
   topic as I am aware of how difficult it is to maintain low-energy or
   compatibility without stifling progress; but suffice it to say, I do
-  not *intentionally* make bloatware or endorse "planned obsolescence".)
+  not *intentionally* make bloatware or endorse "planned obsolescence".)  
   (I may vibe code for *your* codebase!  But please keep that slop
   as far away from my personal projects as possible.)
 * [I am a f&#42;&#42;king webmaster](https://justinjackson.ca/webmaster/).
