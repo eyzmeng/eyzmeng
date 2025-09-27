@@ -30,7 +30,7 @@ to realize these blatantly obvious signs)
   (including GitHub).  But if you must have *me* become a sycophant
   of big corporations, I assure you that you will be disappointed.
 * I enjoy open file formats and open protocols.  I despite Walled
-  Gardens, undocumented database schemas, obfuscated JavaScript,
+  Gardens, proprietary database schemas, obfuscated JavaScript,
   and more.  I despite software used to spy on, control, collect
   personally identifiable information of, and/or manipulate people.
   While I *deeply respect* your choice if you choose to keep *your*
