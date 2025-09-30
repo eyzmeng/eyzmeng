@@ -54,10 +54,10 @@ to realize these blatantly obvious signs)
 * **I do not support the distribution of effortful/confidential text data**
   (such as blog articles, user-created content, personal information)
   **to large language models such as ChatGPT, Anthropic Claude, Google
-  Gemini, Deepseek; or image/audio data of similar nature to
-  image/audio-generation diffusion models** (such as artwork, animations,
-  and photography/videography of real faces/voices).  If you do not
-  make an effort to cease any of the above acts (or at the very least
+  Gemini, Deepseek; or image/audio data of similar nature** (such as
+  artwork, animations, and photography/videography of real faces/voices)
+  to image/audio-generation diffusion models** .  If you do not make
+  an effort to cease any of the above acts (or at the very least
   *clarify* to your users that your service does this), I do not
   want to work with you (nor do I think you me to work for you).
 * I am (undiagnosed, but very possibly) autistic and will interpret
