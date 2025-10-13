@@ -125,7 +125,7 @@ if you like tboi Please email me about it!!!
 
 i drew my cain in [Whiteboard Fox](https://r9.whiteboardfox.com/) :D
 
-cain isn't here now though, i replaced him with Konqi (KDE's mascot).
+cain isn't here now though, i replaced him with Konqi (KDE's mascot)!
 this particular one was from [this group photo](https://community.kde.org/File:Mascot_20140702_konqui-group.png)
-drawn by Tyson Tan [[en](https://tysontan.com/)] [[中](https://tai3.cn/)]
+drawn by Tyson Tan/钛山 [[en](https://tysontan.com/)] [[中](https://tai3.cn/)]
 and licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
