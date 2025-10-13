@@ -119,7 +119,7 @@ to realize these blatantly obvious signs)
 if *any* of these points upset you do not consider me for collab!!!
 do not waste my precious time (or yours)!
 
-## about Cain
+## about Cain (and Konqi)
 
 if you like tboi Please email me about it!!!
 
