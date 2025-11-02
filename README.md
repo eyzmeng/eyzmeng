@@ -1,6 +1,17 @@
 i am ethan and i exist (??????)
 
-anyways.... do not disrupt my sleep ┐(￣。￣)┌
+anyways.... do not disrupt my sleep (even when you think i
+should be awake), do not ask me for ETA for anything, or i
+will bash you in the head with a comically large metal pipe.
+
+## account clarification
+
+So my usual (personal) account is at [github.com/rapidcow](/rapidcow),
+but because i am egostical and want to create an account
+with my name, and because i also like to maintain distance
+with school and work, i made this account.  you will see
+commits under this user in repository, that's normal because i have to make a decision splitting
+the emails between the two accounts.
 
 ## ABOUT J\*B
 
