@@ -10,8 +10,9 @@ So my usual (personal) account is at [github.com/rapidcow](/rapidcow),
 but because i am egostical and want to create an account
 with my name, and because i also like to maintain distance
 with school and work, i made this account.  you will see
-commits under this user in repository, that's normal because i have to make a decision splitting
-the emails between the two accounts.
+commits under this user in repository, that's normal because
+i have to make a decision splitting the emails between the
+two accounts.
 
 ## ABOUT J\*B
 
